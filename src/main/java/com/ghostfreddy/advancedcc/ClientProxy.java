@@ -1,4 +1,4 @@
-package com.myname.mymodid;
+package com.ghostfreddy.advancedcc;
 
 import cpw.mods.fml.common.event.*;
 

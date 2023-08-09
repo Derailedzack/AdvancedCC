@@ -1,4 +1,4 @@
-package com.myname.mymodid;
+package com.ghostfreddy.advancedcc;
 
 import net.minecraftforge.common.config.Configuration;
 import net.minecraftforge.common.config.Property;
