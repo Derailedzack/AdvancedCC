@@ -1,4 +1,4 @@
-package com.ghostfreddy.advancedcc;
+package com.ghostfreddy.advancedoc;
 
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.SidedProxy;
